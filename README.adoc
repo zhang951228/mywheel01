@@ -1,0 +1,14 @@
+== 项目介绍
+== 日期：2021-09-02
+== By：Z151
+
+== get acknowledge
+=== 1、后台统一返回数据格式。
+=== 2、log注解。
+=== 3、export excel 注解。
+=== 4、事件、监听机制。
+
+== 技术栈
+=== jquery、thymeleaf、jwt
+=== springboot2、security、mybatis-plus、druid、shardingsphere、mysql8.0
+======  acticeMQ、redis
